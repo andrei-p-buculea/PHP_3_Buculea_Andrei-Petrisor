@@ -1,0 +1,109 @@
+*{
+    margin:0;
+    padding: 0;
+    font-family: 'Arial';
+}
+.nav {
+
+color:white;
+list-style: none;
+text-align: center;
+padding: 20px ;
+}
+
+.nav li{
+    display: inline-block;
+    padding-right: 50px;
+}
+.nav li a {
+text-decoration: none;
+color: white;
+}
+.nav li a:hover{
+color:red;
+}
+
+header{
+    background-color: blue;
+}
+header p {
+    font-size: 30px;
+    color:white;
+    text-align: center;
+    margin-bottom: 10px;      
+}
+.titlu {
+ font-size: 30px;
+ text-align: center;
+ margin:15px;
+ padding:15px;
+ 
+}
+.poza1{
+    display: block;
+    float: left;
+    margin:13px;
+    border:1px solid blue;
+    padding:13px;
+}
+
+p{
+    text-align:left;
+    margin-bottom: 5px;
+    
+}
+
+table
+{   
+    margin-top: 25px;
+    padding:0;
+    border-spacing: 0;
+    border:1px solid black;
+    width: 80%;
+
+}
+th,td{
+    padding:10px;
+    border-spacing:0;
+    text-align:center;
+    border:1px solid black;
+}
+
+.p2{
+    margin-top: 10px;
+    text-align: center;
+margin-bottom: 20px;
+}
+
+.table3{
+ 
+    margin-top: 25px;
+    padding:0;
+    border-spacing: 0;
+    border:0;
+    width: 80%;
+}
+td.table3,th.table3,tr.table3{
+    border:0;
+    text-align: center;
+    list-style-type:none;
+}
+
+
+.table3 li{
+    list-style-type: none;
+}
+.table3 td,.table3 th,.table3 tr{
+    border:0;
+}
+footer{
+    background-color: blue;
+    text-align: center;
+    font-size: 25px;
+    color:white;
+}
+
+.p3{
+    color:blue;
+}
+
